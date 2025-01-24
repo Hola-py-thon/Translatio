@@ -1,0 +1,18 @@
+{
+    "version": 49,
+    "default_lang": "en_US",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
+        "ar_LY": {
+            "name": "Arabic (literary)",
+            "file": "ar_LY.json"
+        },
+        "es_MX": {
+            "name": "Español Mexicano",
+            "file": "es_MX.json"
+        }
+    }
+}
